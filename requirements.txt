@@ -1,7 +1,7 @@
+opencv-python
 numpy
 tensorflow
 streamlit
 matplotlib
 seaborn
 pillow
-opencv-python
